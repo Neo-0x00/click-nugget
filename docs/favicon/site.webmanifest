@@ -1,0 +1,22 @@
+{
+  "name": "Nugget 中文社区",
+  "short_name": "Nugget",
+  "description": "Nugget 中文社区入口，快速访问官网、交互壁纸库与无越狱美化资源。",
+  "start_url": "../",
+  "scope": "../",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#ff991f",
+  "icons": [
+    {
+      "src": "./android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
