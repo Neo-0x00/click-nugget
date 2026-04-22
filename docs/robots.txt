@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://neo-0x00.github.io/click-nugget/sitemap.xml
